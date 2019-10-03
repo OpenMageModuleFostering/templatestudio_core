@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Templatestudio_Core",
+    "name": "OpenMageModuleFostering\/Templatestudio_Core",
     "type": "magento-module",
     "license": "CL",
     "homepage": "",
     "description": "A core module that other Templatestudio modules depend on.",
     "authors": [
-    {
-        "name": "TemplateStudio",
-        "email": "nick@seofriendlydesign.com"
-    }
-],
+        {
+            "name": "TemplateStudio",
+            "email": "nick@seofriendlydesign.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
